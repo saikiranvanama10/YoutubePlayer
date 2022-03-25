@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Youtube Browser App
+
+Go to [Youtobe Data API V3](https://console.cloud.google.com/apis/api/youtube.googleapis.com) and create an authentication token and add it into src/apis/Youtube.js
+
+and get started
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
